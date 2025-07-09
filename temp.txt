@@ -1,0 +1,4 @@
+fatima 45
+zainab 80
+sir 50
+ 0
